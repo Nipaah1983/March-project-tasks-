@@ -40,6 +40,7 @@
         - Coccinelle
         - IFD
         - Slam Jam
+        - GM PRODUCTION srl
         - BLANCHA
         - Cose di Magila S.r.l.
         - DLL Diamond Luxury Lifestyle srl
