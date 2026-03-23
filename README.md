@@ -40,7 +40,9 @@
         - Coccinelle
         - IFD
         - Slam Jam
-- Осталось обработать: 4 инвойса.
+        - BLANCHA
+        - Cose di Magila S.r.l.
+        - DLL Diamond Luxury Lifestyle srl
 
 ## Приобретенные навыки
 - Работа с переменными, типами данных.
