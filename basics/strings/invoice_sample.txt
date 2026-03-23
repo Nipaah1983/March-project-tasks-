@@ -1,0 +1,5 @@
+Invoice #12345
+Date: 2026-03-01
+Supplier: ABC Fashion GmbH
+Amount: 1250.50 EUR
+Payment: Pending
