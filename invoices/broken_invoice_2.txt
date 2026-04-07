@@ -1,0 +1,3 @@
+another broken_invoice
+supplier: E
+amount: 400

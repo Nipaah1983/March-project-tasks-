@@ -1,0 +1,4 @@
+another good_invoice file
+supplier: B
+amount: 200
+date: 2023-02-15

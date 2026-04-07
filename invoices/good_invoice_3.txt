@@ -1,0 +1,4 @@
+just a good_invoice
+supplier: C
+amount: 150.50
+date: 2023-03-10
